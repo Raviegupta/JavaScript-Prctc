@@ -1,17 +1,9 @@
-Given a sentence, capitalize the first character of each word.
+capitalize the first character of each word of given String.
 
-Input Format
-A string 
+Input Format:- A string 
 
-Output Format
-Return a string with each words first character capitalized.
+Output Format:- Return a string with each words first character capitalized.
 
-Sample Input:
-this is aircampus
-Sample Output:
-This Is Aircampus
+Sample Input:- i am learning javascript
+Sample Output:- I Am learning Javascript
 
-Sample Input:
-javascript is Weird
-Sample Output:
-Javascript is Weird
